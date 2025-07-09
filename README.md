@@ -1,6 +1,6 @@
 # MediSearch
 
-MediSearch is a medicine search platform built with the **MERN stack** (MongoDB, Express, React, Node.js) and pupeteer which is used for web scraping. 
+MediSearch is a medicine search platform built with the **MERN stack** (MongoDB, Express, React, Node.js) and puppeteer which is used for web scraping. 
 It helps users search for medicines with intelligent results from various pharmacies eg. TATA 1MG, NetMeds,PharmEasy,ApolloPharmacy...
 and fast performance.
 
@@ -11,7 +11,7 @@ through automated price comparison from 5 leading online pharmacies.
 
 #Tech Stack
 
-React,Javascript,Pupeteer for Web Scraping,Express,HTML,CSS
+React,Javascript,Puppeteer for Web Scraping,Express,HTML,CSS
 
 ![image](https://github.com/user-attachments/assets/094446f4-ba8d-44a4-887e-15997f2973cd)
 ![image](https://github.com/user-attachments/assets/d7de7708-343e-4a0c-b9eb-519743230b89)
